@@ -1,0 +1,388 @@
+*
+{
+	color:#2c3e50;
+	font-family: Verdana;
+
+}	
+
+body
+{
+	/*background-image: url("../images/background.jpg");*/
+	background-repeat: no-repeat;
+	
+
+
+}
+.username,.password
+{
+	margin:50px;
+}
+ul
+{
+	list-style: none;
+
+}
+li
+{
+	
+
+}
+.log_button
+{
+	width:25%;
+	margin-top:20px;
+}
+.log_button:hover,.log_button:focus,.log_button:active
+{
+	box-shadow: 0px 0px 2px #2c3e50;
+	border:1px solid #2c3e50;
+}
+
+.pass,.user
+{
+	width:75%;
+	
+}
+.pass:focus,.user:focus
+{
+	border:1px solid red;
+	box-shadow: 0px 0px 2px red;
+}
+.ul_login li
+{
+	margin-top: 20px;
+}
+.kontenjer
+{
+	margin-top:100px;
+	/*background-image: url("../images/background.jpg");*/
+}
+
+.welcome_pic
+{
+	margin:auto;
+}
+.side_div
+{
+	margin-top:50px;
+}
+.log_headline
+{
+	
+	width:25%;
+	display:block;
+	margin:auto;
+	margin-bottom: 50px;
+}
+.prvirow
+{
+	margin-bottom: 50px;
+}
+
+h1
+{
+	color:red;
+	font-family: 'Dosis', sans-serif;
+	font-size: 3em;
+	text-align: center;
+
+
+}
+
+.main_div
+{
+	
+	font-family: 'Dosis', sans-serif;
+	font-size:1.5em;
+	padding:40px;
+	border-radius:20px;
+
+}
+
+
+
+.reg-container table td
+{
+	padding: 15px;
+}
+
+.reg_div
+{
+	font-size: 1.5em;
+	margin:40px auto;
+	width:75%;
+	font-family: 'Dosis', sans-serif;
+	padding: 20px;
+
+}
+
+.reg_botun
+{
+	display: block;
+	width:25%;
+	margin:auto;
+}
+.reg-p
+{
+	display: block;
+	margin-left: 50px;
+}
+
+input[type="radio"]
+{
+	
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.headline
+{
+	margin-left:250px;
+}
+
+.pogreske
+{
+	font-size: 2em;
+	color:#c0392b;
+}
+img
+{
+	margin-top:-100px;
+}
+.logout
+{
+	
+	
+	margin-left: 20px;
+
+}
+
+.logged_div
+{
+	margin-top:50px;
+	
+}
+.logged_navigation
+{
+	text-align: left;	
+
+}
+
+.logged_navigation li 
+{
+	display : inline;
+	font-size : 1.25em;
+	
+}
+
+.logged_nav_tipovi
+{
+	color:red;
+	margin:0px 20px;
+}
+
+.logged_navigacija
+{
+	text-align: left;
+	margin-bottom: 25px;
+}
+.ects
+{
+	margin: auto;
+	width: 350px;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 1.3em;
+}
+.predmeti
+{
+	
+	padding: 10px;
+
+	height: 50px;
+}
+
+.predmet_botun
+{
+	margin-left : 10px;
+}
+.ime_predmeta
+{
+	width:200px;
+	float :left;
+	
+}
+.botuni_predmeta
+{
+	
+	width:100px;
+	float:left;
+}
+.predmeti
+{
+	
+}
+.scrollable_predmeti
+{
+	overflow:auto;
+	height: 500px;
+}
+.botuni_predmeta_slobodnih
+{
+	
+}
+
+.warning
+{
+	color:red;
+}
+.header_studenta
+{
+	margin-bottom: 50px;
+}
+.predmet
+{
+	padding:10px;
+
+	
+}
+.predmet button
+{
+	margin-right: 20px;
+}
+
+.row
+{
+
+}
+
+
+.popis_studenata button
+{
+	margin:10px 10px;
+}
+
+h4
+{
+	font-weight: bold;
+}
+
+.ime_predmeta_sa_popisa
+{
+	float:left;
+	height: 50px;
+	width: 300px;
+	line-height: 50px;
+}
+.botuni_predmeta_sa_popisa
+{
+	margin-left: 250px;
+
+}
+.ispisi_predmete,.ispisi_studente
+{
+	width: 50%;
+	margin:10px;
+
+}
+
+.lista_studenata
+{
+	
+	font-size: 1.5em;
+}
+
+div
+{
+
+}
+.lista_studenata_headline
+{
+	text-align: center;
+	margin-bottom:50px;
+}
+.ime_predmeta_div
+{
+	
+	display: table-row;
+}
+
+.ime_predmeta_div button
+{
+	margin-left: 10px;
+}
+.span_botuni
+{
+	display: table-cell;
+	padding: 10px;	
+
+}
+.span_ime
+{
+	display: table-cell;	
+	padding:10px;
+}
+.span_ime
+{
+	
+}
+span
+{
+	
+}
+a
+{
+	color:#2c3e50;
+}
+
+a:hover
+{
+		
+}
+.registracija_head
+{
+	color:red;
+}
+.reg_input:focus
+{
+	box-shadow: 0px 0px 2px red;
+	border:1px solid red; 
+}
+.popisi input:hover,.popisi input:focus
+{
+	box-shadow: 0px 0px 2px red;
+	border:1px solid red; 
+}
+
+.upisni_list
+{
+	
+	margin-bottom: 50px;
+	border-radius:20px;
+}
+
+.semestar_div
+{
+	
+	padding: 10px;
+}
+.kontenjer
+{
+	background-color: white;
+	opacity: 0.8;
+}
+
+.zbroj_ects
+{
+	font-weight: bold;
+	margin-top: 50px;
+	
+}
+.zbroj_ects div
+{
+	margin:auto;
+}
+.sadrzaj_svega
+{
+	margin-bottom: 100px;
+}
